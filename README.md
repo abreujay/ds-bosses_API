@@ -1,1 +1,1 @@
-documentação: /docs-api
+documentação: /api-docs
