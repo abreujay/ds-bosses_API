@@ -520,3 +520,5 @@ const bosses = [
         ]
     }
 ];
+
+module.exports = bosses
