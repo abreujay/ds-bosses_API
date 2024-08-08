@@ -518,4 +518,3 @@ const bosses = [
             unique: true
         }
     ]
-} 
