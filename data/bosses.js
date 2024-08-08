@@ -261,8 +261,6 @@ const bosses = [
             }
         ]
     },
-    
-    [
         {
             "id": 9,
             "name": "Gwyndolin, Sol Negro",
@@ -355,10 +353,8 @@ const bosses = [
                     "unique": true
                 }
             ]
-        }
-    ]
+        },
 
-    [
         {
             "id": 13,
             "name": "Grande Lobo Cinzento Sif",
