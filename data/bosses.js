@@ -503,18 +503,20 @@ const bosses = [
 },
 
 {
-    id: 20,
-    name: 'Bed of Chaos',
-    location: 'Ruínas de Lost Izalith',
-    drops: [
-        {
-            quantity: 60000,
-            drop: 'Almas',
-            unique: false
-        },
-        {
-            quantity: 1,
-            drop: 'Legado do Fragmento da Alma do Lorde',
-            unique: true
-        }
-    ]
+        id: 20,
+        name: 'Bed of Chaos',
+        location: 'Ruínas de Lost Izalith',
+        drops: [
+            {
+                quantity: 60000,
+                drop: 'Almas',
+                unique: false
+            },
+            {
+                quantity: 1,
+                drop: 'Legado do Fragmento da Alma do Lorde',
+                unique: true
+            }
+        ]
+    }
+];
