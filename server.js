@@ -35,7 +35,10 @@ app.get('/api/npcs/:id', (req, res) => {
     if (npc){
 
         res.json(npc)
-        res.status(404).json({message: 'Ocorreu Um Erro Ao Localizar Npc'})
+
+    } else {
+
+        res.status(404).json({message: "Não Foi Possível Localizar O NPC"})
 
     }
 
