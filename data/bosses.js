@@ -267,107 +267,105 @@ const bosses = [
         ]
     },
 
-    
-        {
-            "id": 9,
-            "name": "Gwyndolin, Sol Negro",
-            "img": 'https://vignette1.wikia.nocookie.net/darksouls/images/1/1f/Gwyndolin_Ingame.jpg/revision/latest?cb=20160630212846',
-            "location": "Anor Londo",
-            "drops": [
-                {
-                    "quantity": 40000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Alma de Gwyndolin",
-                    "unique": true
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "name": "Demônio Sábio de Fogo",
-            "img": 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmZMMfQ4PqUNDi7NVOlvLKHZK-tA50LhtuQ&s',
-            "location": "Ruínas Demoníacas",
-            "drops": [
-                {
-                    "quantity": 20000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Catalisador do Demônio",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade",
-                    "unique": false
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "name": "Quatro Reis",
-            "img": 'https://jornada-sombria.com/app/src/storage/images/lores/quatro-reis-20240313154841.jpg',
-            "location": "Nova Londo",
-            "drops": [
-                {
-                    "quantity": 60000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Legado do Fragmento da Alma do Lorde",
-                    "unique": true
-                },
-                {
-                    "quantity": 4,
-                    "drop": "Humanidades",
-                    "unique": false
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "name": "Dragão Abocanhante",
-            "img": 'https://pm1.aminoapps.com/6701/5e6e93543f53e5909a73aba742154cc12f5e94f4_00.jpg',
-            "location": "Região das Profundezas",
-            "drops": [
-                {
-                    "quantity": 25000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Chave da Cidade das Moléstias",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade Gêmeas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Osso do Regresso",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Machado Grande do Rei Dragão",
-                    "unique": true
-                }
-            ]
-        }
-    
 
-    
+    {
+        "id": 9,
+        "name": "Gwyndolin, Sol Negro",
+        "img": 'https://vignette1.wikia.nocookie.net/darksouls/images/1/1f/Gwyndolin_Ingame.jpg/revision/latest?cb=20160630212846',
+        "location": "Anor Londo",
+        "drops": [
+            {
+                "quantity": 40000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Alma de Gwyndolin",
+                "unique": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Demônio Sábio de Fogo",
+        "img": 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmZMMfQ4PqUNDi7NVOlvLKHZK-tA50LhtuQ&s',
+        "location": "Ruínas Demoníacas",
+        "drops": [
+            {
+                "quantity": 20000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Catalisador do Demônio",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade",
+                "unique": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Quatro Reis",
+        "img": 'https://jornada-sombria.com/app/src/storage/images/lores/quatro-reis-20240313154841.jpg',
+        "location": "Nova Londo",
+        "drops": [
+            {
+                "quantity": 60000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Legado do Fragmento da Alma do Lorde",
+                "unique": true
+            },
+            {
+                "quantity": 4,
+                "drop": "Humanidades",
+                "unique": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Dragão Abocanhante",
+        "img": 'https://pm1.aminoapps.com/6701/5e6e93543f53e5909a73aba742154cc12f5e94f4_00.jpg',
+        "location": "Região das Profundezas",
+        "drops": [
+            {
+                "quantity": 25000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Chave da Cidade das Moléstias",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade Gêmeas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Osso do Regresso",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Machado Grande do Rei Dragão",
+                "unique": true
+            }
+        ]
+    },
+
     {
         "id": 13,
         "name": "Grande Lobo Cinzento Sif",
