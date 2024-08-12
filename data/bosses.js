@@ -72,7 +72,7 @@ const bosses = [
 
                 "quantity": 1,
                 "drop": 'Osso Do Regresso',
-                "unique:" false
+                "unique": false
 
             },
 
