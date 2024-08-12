@@ -43,14 +43,14 @@ const npcs = [
 
     {
         "name": "Cavaleiro Berenike",
-        "img": "http://darksouls.wikidot.com/local--files/npcs/berenike-knight-large.jpg",
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dark-souls/d/d6/Tower_Knight.jpg",
         "description": "Um cavaleiro de Berenike, ele se aventura na Sen's Fortress para chegar a Anor Londo, assim como outros cavaleiros antes dele. Mas os fracassos de figuras lendárias como Rendal de Balder e Black Iron Tarkus o fazem duvidar do 'Destino dos Mortos-vivos'. Agora ele vende equipamentos retirados dos corpos dos cavaleiros encontrados na Fortaleza.",
         "location": "Undead Parish, Sen's Fortress, Painted World of Ariamis"
     },
 
     {
         "name": "Kaathe",
-        "img": "http://darksouls.wikidot.com/local--files/npcs/kaathe-large.jpg",
+        "img": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/Darkstalker_Kaathe.jpg",
         "description": "Assim como Kingseeker Frampt, Kaathe é uma serpente primordial, mas suas intenções são muito diferentes das de Frampt. Ele é o líder dos Darkwraiths e quer ver o plano do Furtive Pygmy se concretizar recrutando mortos-vivos com o Darksign para que possam se tornar o novo Senhor das Trevas, anunciando a Era das Trevas. Sugere-se que ele tenha manipulado o povo de Oolacile para despertar Manus e oferecido a arte de drenagem de vida aos Reis de New Londo, tornando-o indiretamente responsável pela destruição de Oolacile e New Londo.",
         "location": "The Abyss"
     },
@@ -176,7 +176,7 @@ const npcs = [
 
     {
         "name": "Snuggly the Crow",
-        "img": "http://darksouls.wikidot.com/local--files/npcs/snuggly-the-crow-large.jpg",
+        "img": "https://static.giga.de/wp-content/uploads/2023/10/Dark-Souls-Snuggly-Fundort-und-Tauschliste-32eddb92e08fc3bf5b2d9c1d0eb584f8-rcm1600x1200u.jpg",
         "description": "Snuggly é um corvo mágico que vive em um ninho e oferece trocas de itens ao jogador. Ele é um personagem que permite ao jogador trocar itens raros e valiosos.",
 
     },

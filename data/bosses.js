@@ -20,7 +20,7 @@ const bosses = [
 
                 "quantity": 1,
                 "drop": 'Humanidade',
-                "unique": false     
+                "unique": false
 
             },
 
@@ -184,7 +184,7 @@ const bosses = [
             }
         ]
     },
-      
+
     {
         "id": 6,
         "t name": "Demônio Centopeia",
@@ -237,7 +237,7 @@ const bosses = [
             }
         ]
     },
-    
+
     {
         "id": 8,
         "name": "Priscilla, a Mestiça",
@@ -266,7 +266,7 @@ const bosses = [
             }
         ]
     },
-    
+
     [
         {
             "id": 9,
@@ -368,136 +368,136 @@ const bosses = [
     ]
 
     [
-        {
-            "id": 13,
-            "name": "Grande Lobo Cinzento Sif",
-            "img": 'https://i.ytimg.com/vi/y6TOL0e0dLI/maxresdefault.jpg',
-            "location": "Jardim da Raiz Negra",
-            "drops": [
-                {
-                    "quantity": 40000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Alma de Sif",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Pacto de Artorias",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Osso do Regresso",
-                    "unique": false
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "name": "Gwyn, Lorde da Luz Solar",
-            "img": 'https://i.ytimg.com/vi/hYpFePDkEo8/maxresdefault.jpg',
-            "location": "Forno da Primeira Chama",
-            "drops": [
-                {
-                    "quantity": 70000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Alma de Gwyn, Senhor das Cinzas",
-                    "unique": true
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "name": "Golem de Ferro",
-            "img": 'https://i.ytimg.com/vi/XlmhVh1BFLM/maxresdefault.jpg',
-            "location": "Fortaleza de Sen",
-            "drops": [
-                {
-                    "quantity": 1,
-                    "drop": "Núcleo de um Gigante de Ferro",
-                    "unique": true
-                },
-                {
-                    "quantity": 40000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade",
-                    "unique": false
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "name": "Borboleta do Luar",
-            "img": 'https://i.ytimg.com/vi/4ieFa-pE_Nk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAaKqD4AvjJujIt0nwrDflHDj5tkQ',
-            "location": "Jardim da Raiz Negra",
-            "drops": [
-                {
-                    "quantity": 10000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Alma da Borboleta do Luar",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Pedaço de Titanita Azul",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Laje de Titanita Azul",
-                    "unique": true
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "name": "Nito, o Senhor dos Túmulos",
-            "img": 'https://darksouls.wiki.fextralife.com/file/Dark-Souls/nito_dark_lord_of_Skeletons.jpg?v=1528456039974',
-            "location": "Tumba dos Gigantes",
-            "drops": [
-                {
-                    "quantity": 60000,
-                    "drop": "Almas",
-                    "unique": false
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Alma do Lorde (Alma de Nito, o Senhor dos Túmulos)",
-                    "unique": true
-                },
-                {
-                    "quantity": 1,
-                    "drop": "Humanidade",
-                    "unique": false
-                }
-            ]
-        },
+    {
+        "id": 13,
+        "name": "Grande Lobo Cinzento Sif",
+        "img": 'https://i.ytimg.com/vi/y6TOL0e0dLI/maxresdefault.jpg',
+        "location": "Jardim da Raiz Negra",
+        "drops": [
+            {
+                "quantity": 40000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Alma de Sif",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Pacto de Artorias",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Osso do Regresso",
+                "unique": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Gwyn, Lorde da Luz Solar",
+        "img": 'https://i.ytimg.com/vi/hYpFePDkEo8/maxresdefault.jpg',
+        "location": "Forno da Primeira Chama",
+        "drops": [
+            {
+                "quantity": 70000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Alma de Gwyn, Senhor das Cinzas",
+                "unique": true
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Golem de Ferro",
+        "img": 'https://i.ytimg.com/vi/XlmhVh1BFLM/maxresdefault.jpg',
+        "location": "Fortaleza de Sen",
+        "drops": [
+            {
+                "quantity": 1,
+                "drop": "Núcleo de um Gigante de Ferro",
+                "unique": true
+            },
+            {
+                "quantity": 40000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade",
+                "unique": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Borboleta do Luar",
+        "img": 'https://i.ytimg.com/vi/4ieFa-pE_Nk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAaKqD4AvjJujIt0nwrDflHDj5tkQ',
+        "location": "Jardim da Raiz Negra",
+        "drops": [
+            {
+                "quantity": 10000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Alma da Borboleta do Luar",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Pedaço de Titanita Azul",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Laje de Titanita Azul",
+                "unique": true
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Nito, o Senhor dos Túmulos",
+        "img": 'https://darksouls.wiki.fextralife.com/file/Dark-Souls/nito_dark_lord_of_Skeletons.jpg?v=1528456039974',
+        "location": "Tumba dos Gigantes",
+        "drops": [
+            {
+                "quantity": 60000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Alma do Lorde (Alma de Nito, o Senhor dos Túmulos)",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Humanidade",
+                "unique": false
+            }
+        ]
+    },
     {
         "id": 18,
         "name": "Ornstein",
@@ -630,7 +630,46 @@ const bosses = [
                 "quantity": 1,
                 "drop": "Osso do Regresso",
                 "unique": false
+            },
+            {
+                "id": 23,
+                "name": "Artorias, o Caminhante do Abismo",
+                "img": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468",
+                "location": "Vilarejo de Oolacile",
+                "description": "Artorias, o Caminhante do Abismo, é um chefe em Dark Souls. Ele é encontrado no Vilarejo de Oolacile, na área DLC. Originalmente um nobre cavaleiro, Artorias foi corrompido pelo Abismo, o que é evidente pelo estado deteriorado de sua armadura e a aura sombria que o cerca. Apesar de sua corrupção, ele continua a empunhar uma grande espada, embora enfraquecida pela sua queda. Seus movimentos são selvagens e frenéticos, refletindo sua transformação em uma besta enlouquecida sob a influência do Abismo.",
+                "drops": [
+                    {
+                        "quantity": 50000,
+                        "drop": "Almas",
+                        "unique": false
+                    },
+                    {
+                        "id": 24,
+                        "name": "Manus, o Pai do Abismo",
+                        "img": "https://darksouls.wikidot.com/local--files/bosses/manus-father-of-the-abyss-large.jpg",
+                        "location": "Abyss",
+                        "description": "Manus, o Pai do Abismo, é um chefe em Dark Souls encontrado no Vilarejo de Oolacile, na área DLC. Manus é um antigo e poderoso ser que foi corrompido pelo Abismo. Sua aparência monstruosa e seu comportamento selvagem refletem a imensa influência do Abismo sobre ele. Manus é conhecido por seu ataque devastador e sua habilidade de manipular a escuridão. Enfrentá-lo é um dos desafios mais difíceis do jogo.",
+                        "drops": [
+                            {
+                                "quantity": 60000,
+                                "drop": "Almas",
+                                "unique": false
+                            },
+                            {
+                                "quantity": 1,
+                                "drop": "Fragmento de Manus",
+                                "unique": true
+                            },
+                            {
+                                "quantity": 1,
+                                "drop": "Colares de Manus",
+                                "unique": true
+                            }
+                        ]
+                    }
+                ]
             }
+
         ]
     }]
 
