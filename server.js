@@ -9,7 +9,6 @@ const npcs = require('./data/npcs');
 
 app.use(express.json());
 app.use(cors());
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs))
 
 app.get('/', (req, res) => {
 
