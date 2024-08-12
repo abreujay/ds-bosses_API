@@ -187,7 +187,7 @@ const bosses = [
       
     {
         "id": 6,
-        "name": "Demônio Centopeia",
+        "t name": "Demônio Centopeia",
         "img": 'https://www.epictrick.com/images/posts/a3880e64e30217870029dad6db94f6ed-3.jpg',
         "location": "Ruínas Demoníacas",
         "drops": [
