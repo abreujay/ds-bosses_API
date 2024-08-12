@@ -629,45 +629,45 @@ const bosses = [
                 "drop": "Osso do Regresso",
                 "unique": false
             },
+
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Artorias, o Caminhante do Abismo",
+        "img": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468",
+        "location": "Vilarejo de Oolacile",
+        "description": "Artorias, o Caminhante do Abismo, é um chefe em Dark Souls. Ele é encontrado no Vilarejo de Oolacile, na área DLC. Originalmente um nobre cavaleiro, Artorias foi corrompido pelo Abismo, o que é evidente pelo estado deteriorado de sua armadura e a aura sombria que o cerca. Apesar de sua corrupção, ele continua a empunhar uma grande espada, embora enfraquecida pela sua queda. Seus movimentos são selvagens e frenéticos, refletindo sua transformação em uma besta enlouquecida sob a influência do Abismo.",
+        "drops": [
             {
-                "id": 23,
-                "name": "Artorias, o Caminhante do Abismo",
-                "img": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468",
-                "location": "Vilarejo de Oolacile",
-                "description": "Artorias, o Caminhante do Abismo, é um chefe em Dark Souls. Ele é encontrado no Vilarejo de Oolacile, na área DLC. Originalmente um nobre cavaleiro, Artorias foi corrompido pelo Abismo, o que é evidente pelo estado deteriorado de sua armadura e a aura sombria que o cerca. Apesar de sua corrupção, ele continua a empunhar uma grande espada, embora enfraquecida pela sua queda. Seus movimentos são selvagens e frenéticos, refletindo sua transformação em uma besta enlouquecida sob a influência do Abismo.",
+                "quantity": 50000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "id": 24,
+                "name": "Manus, o Pai do Abismo",
+                "img": "https://darksouls.wikidot.com/local--files/bosses/manus-father-of-the-abyss-large.jpg",
+                "location": "Abyss",
+                "description": "Manus, o Pai do Abismo, é um chefe em Dark Souls encontrado no Vilarejo de Oolacile, na área DLC. Manus é um antigo e poderoso ser que foi corrompido pelo Abismo. Sua aparência monstruosa e seu comportamento selvagem refletem a imensa influência do Abismo sobre ele. Manus é conhecido por seu ataque devastador e sua habilidade de manipular a escuridão. Enfrentá-lo é um dos desafios mais difíceis do jogo.",
                 "drops": [
                     {
-                        "quantity": 50000,
+                        "quantity": 60000,
                         "drop": "Almas",
                         "unique": false
                     },
                     {
-                        "id": 24,
-                        "name": "Manus, o Pai do Abismo",
-                        "img": "https://darksouls.wikidot.com/local--files/bosses/manus-father-of-the-abyss-large.jpg",
-                        "location": "Abyss",
-                        "description": "Manus, o Pai do Abismo, é um chefe em Dark Souls encontrado no Vilarejo de Oolacile, na área DLC. Manus é um antigo e poderoso ser que foi corrompido pelo Abismo. Sua aparência monstruosa e seu comportamento selvagem refletem a imensa influência do Abismo sobre ele. Manus é conhecido por seu ataque devastador e sua habilidade de manipular a escuridão. Enfrentá-lo é um dos desafios mais difíceis do jogo.",
-                        "drops": [
-                            {
-                                "quantity": 60000,
-                                "drop": "Almas",
-                                "unique": false
-                            },
-                            {
-                                "quantity": 1,
-                                "drop": "Fragmento de Manus",
-                                "unique": true
-                            },
-                            {
-                                "quantity": 1,
-                                "drop": "Colares de Manus",
-                                "unique": true
-                            }
-                        ]
+                        "quantity": 1,
+                        "drop": "Fragmento de Manus",
+                        "unique": true
+                    },
+                    {
+                        "quantity": 1,
+                        "drop": "Colares de Manus",
+                        "unique": true
                     }
                 ]
             }
-
         ]
     }
 ]
