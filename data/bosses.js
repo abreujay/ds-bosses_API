@@ -644,29 +644,30 @@ const bosses = [
                 "drop": "Almas",
                 "unique": false
             },
+            
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Manus, o Pai do Abismo",
+        "img": "https://darksouls.wikidot.com/local--files/bosses/manus-father-of-the-abyss-large.jpg",
+        "location": "Abyss",
+        "description": "Manus, o Pai do Abismo, é um chefe em Dark Souls encontrado no Vilarejo de Oolacile, na área DLC. Manus é um antigo e poderoso ser que foi corrompido pelo Abismo. Sua aparência monstruosa e seu comportamento selvagem refletem a imensa influência do Abismo sobre ele. Manus é conhecido por seu ataque devastador e sua habilidade de manipular a escuridão. Enfrentá-lo é um dos desafios mais difíceis do jogo.",
+        "drops": [
             {
-                "id": 24,
-                "name": "Manus, o Pai do Abismo",
-                "img": "https://darksouls.wikidot.com/local--files/bosses/manus-father-of-the-abyss-large.jpg",
-                "location": "Abyss",
-                "description": "Manus, o Pai do Abismo, é um chefe em Dark Souls encontrado no Vilarejo de Oolacile, na área DLC. Manus é um antigo e poderoso ser que foi corrompido pelo Abismo. Sua aparência monstruosa e seu comportamento selvagem refletem a imensa influência do Abismo sobre ele. Manus é conhecido por seu ataque devastador e sua habilidade de manipular a escuridão. Enfrentá-lo é um dos desafios mais difíceis do jogo.",
-                "drops": [
-                    {
-                        "quantity": 60000,
-                        "drop": "Almas",
-                        "unique": false
-                    },
-                    {
-                        "quantity": 1,
-                        "drop": "Fragmento de Manus",
-                        "unique": true
-                    },
-                    {
-                        "quantity": 1,
-                        "drop": "Colares de Manus",
-                        "unique": true
-                    }
-                ]
+                "quantity": 60000,
+                "drop": "Almas",
+                "unique": false
+            },
+            {
+                "quantity": 1,
+                "drop": "Fragmento de Manus",
+                "unique": true
+            },
+            {
+                "quantity": 1,
+                "drop": "Colares de Manus",
+                "unique": true
             }
         ]
     }
