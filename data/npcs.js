@@ -196,4 +196,4 @@ const npcs = [
     }
 ];
 
-exports.modules = npcs
+module.exports = npcs
