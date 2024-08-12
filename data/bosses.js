@@ -267,7 +267,7 @@ const bosses = [
         ]
     },
 
-    [
+    
         {
             "id": 9,
             "name": "Gwyndolin, Sol Negro",
@@ -365,9 +365,9 @@ const bosses = [
                 }
             ]
         }
-    ]
+    
 
-    [
+    
     {
         "id": 13,
         "name": "Grande Lobo Cinzento Sif",
@@ -671,8 +671,7 @@ const bosses = [
             }
 
         ]
-    }]
-
+    }
 ]
 
 module.exports = bosses
