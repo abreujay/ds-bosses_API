@@ -2,7 +2,7 @@ Dark Souls 1 API
 
 Descrição
 
-Esta é uma API para obter informações sobre os bosses e NPCs de Dark Souls 1.
+Esta API fornece informações sobre bosses e NPCs do jogo Dark Souls 1.
 
 Endpoints
 
@@ -131,4 +131,3 @@ Para executar a API localmente:
 	1.	Clone o repositório.
 	2.	Instale as dependências: npm install.
 	3.	Execute o servidor: node server.js.
-
